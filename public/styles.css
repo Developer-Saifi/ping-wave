@@ -1,0 +1,30 @@
+#chatMessages {
+     
+          height: 400px;
+          overflow-y: auto;
+          background-color: #f8f9fa;
+        
+   }
+   
+   #chatinput {
+     
+   }
+
+   .message {
+     margin-bottom: 10px;
+   }
+   
+   .message .username {
+     font-weight: bold;
+   }
+   
+   .message .time {
+     font-size: 0.8em;
+     color: gray;
+   }
+   
+   .message .text {
+     /* margin-top: 10px; */
+     margin-bottom: 5px;
+   }
+   
